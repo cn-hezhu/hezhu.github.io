@@ -13,6 +13,9 @@ I interned at SenseTime from 2021 to 2022. And now I'm an intern at Alibaba.
 
 I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, and the National Scholarship for postgraduates in 2024.
 
+Email：cn.hezhu@gmail.com \
+Address: Building 18-104, Yuquan Campus, Zheda Road 38, Xihu District, Hangzhou, China
+
 # Publications
 
  - Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions \
