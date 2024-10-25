@@ -7,4 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from ZheJiang University. My research interest includes computer vision, autonomous driving and embodied intelligence. I'm very fortunate to be advised by Prof. Rong Xiong and Prof. Yue Wang from the Department of Control Science and Engineering, Zhejiang University. I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, and the National Scholarship for postgraduates in 2024.
+I'm a third year graduate student from ZheJiang University. I'm very fortunate to be advised by Prof. Rong Xiong and Prof. Yue Wang from the Department of Control Science and Engineering, Zhejiang University. My research interest includes computer vision, autonomous driving and embodied intelligence.
+
+I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, and the National Scholarship for postgraduates in 2024.
+
+# Publications
+
+Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions
+**He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang*
+Preprint 2024
+
+OTVIC: A Dataset with Online Transmission for Vehicle-to-Infrastructure Cooperative 3D Object Detection
+**He Zhu**, Yunkai Wang, Quyu Kong, Xunlong Xia, Bing Deng, Rong Xiong, Yue Wang*
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024 Oral)
+
+Enhancing Closed-Loop Performance in Learning-Based Vehicle Motion Planning by Integrating Rule-Based Insights
+Yunkai Wang, Quyu Kong, **He Zhu**, Dongkun Zhang, Longzhong Lin, Hao Sha, Xunlong Xia, Qiao Liang, Bing Deng, Ken Chen, Rong Xiong, Yue Wang*, Jieping Ye*
+IEEE Robotics and Automation Letter (RA-L 2024)
