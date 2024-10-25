@@ -16,13 +16,19 @@ I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, 
 # Publications
 
  - Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions
+
 **He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang*
+
 Preprint 2024
 
  - OTVIC: A Dataset with Online Transmission for Vehicle-to-Infrastructure Cooperative 3D Object Detection
+
 **He Zhu**, Yunkai Wang, Quyu Kong, Xunlong Xia, Bing Deng, Rong Xiong, Yue Wang*
+
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024 Oral)
 
  - Enhancing Closed-Loop Performance in Learning-Based Vehicle Motion Planning by Integrating Rule-Based Insights
+
 Yunkai Wang, Quyu Kong, **He Zhu**, Dongkun Zhang, Longzhong Lin, Hao Sha, Xunlong Xia, Qiao Liang, Bing Deng, Ken Chen, Rong Xiong, Yue Wang*, Jieping Ye*
+
 IEEE Robotics and Automation Letter (RA-L 2024)
