@@ -20,7 +20,7 @@ Address: Building 18-104, Yuquan Campus, Zheda Road 38, Xihu District, Hangzhou,
 
  - Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions \
 **He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang* \
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR 2025)
 
  - OTVIC: A Dataset with Online Transmission for Vehicle-to-Infrastructure Cooperative 3D Object Detection \
 **He Zhu**, Yunkai Wang, Quyu Kong, Yufei Wei, Xunlong Xia, Bing Deng, Rong Xiong, Yue Wang* \
