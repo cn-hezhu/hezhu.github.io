@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from ZheJiang University. I'm very fortunate to be advised by Prof. Rong Xiong and Prof. Yue Wang from the Department of Control Science and Engineering, Zhejiang University. My research interest includes computer vision, autonomous driving and embodied intelligence.
+I received the B.S. degree from Northeastern University in 2022 and received the M.S. degree from Zhejiang University in 2025. I'm very fortunate to be advised by Prof. Rong Xiong and Prof. Yue Wang from the Department of Control Science and Engineering, Zhejiang University. My research interest includes computer vision, autonomous driving and embodied intelligence.
 
-I interned at SenseTime from 2021 to 2022. And now I'm an intern at Alibaba.
+I interned at SenseTime from 2021 to 2022 and Alibaba from 2023 to 2025.
 
 I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, and the National Scholarship for postgraduates in 2024.
 
