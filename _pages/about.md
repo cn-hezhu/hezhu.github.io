@@ -11,8 +11,6 @@ I received the B.S. degree from Northeastern University in 2022 and received the
 
 I interned at SenseTime from 2021 to 2022 and Alibaba from 2023 to 2025.
 
-I have won the National Scholarship for undergraduates in 2019, 2020, and 2021, and the National Scholarship for postgraduates in 2024.
-
 Email: cn.hezhu@gmail.com \
 Address: Building 18-104, Yuquan Campus, Zheda Road 38, Xihu District, Hangzhou, China
 
@@ -29,3 +27,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024 O
  - Enhancing Closed-Loop Performance in Learning-Based Vehicle Motion Planning by Integrating Rule-Based Insights \
 Yunkai Wang, Quyu Kong, **He Zhu**, Dongkun Zhang, Longzhong Lin, Hao Sha, Xunlong Xia, Qiao Liang, Bing Deng, Ken Chen, Rong Xiong, Yue Wang*, Jieping Ye* \
 IEEE Robotics and Automation Letter (RA-L 2024)
+
+# Services
+ - Reviewer of RA-L
+
+# Selected Honors and Awards
+ - National Scholarship (2019, 2020, 2021, 2024)
