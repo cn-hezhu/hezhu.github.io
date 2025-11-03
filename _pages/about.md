@@ -16,6 +16,10 @@ Address: Building 18-104, Yuquan Campus, Zheda Road 38, Xihu District, Hangzhou,
 
 # Publications
 
+ - Omnieva: Embodied versatile planner via task-adaptive 3d-grounded and embodiment-aware reasoning \
+Yuecheng Liu, Dafeng Chi, Shiguang Wu, Zhanguang Zhang, Yuzheng Zhuang, Bowen Yang, **He Zhu**, Lingfeng Zhang, Pengwei Xie, David Gamaliel Arcos Bravo, Yingxue Zhang, Jianye Hao, Xingyue Quan \
+Under Review
+
  - Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions \
 **He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang* \
 Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR 2025)
