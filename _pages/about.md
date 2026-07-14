@@ -21,7 +21,7 @@ Yuecheng Liu, Dafeng Chi, Shiguang Wu, Zhanguang Zhang, Yuzheng Zhuang, Bowen Ya
 International Conference on Learning Representations (ICLR 2026)
 
  - Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions \
-**He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang* \
+**He Zhu**, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong*, Yue Wang \
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
 
  - OTVIC: A Dataset with Online Transmission for Vehicle-to-Infrastructure Cooperative 3D Object Detection \
@@ -31,6 +31,10 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024 O
  - Enhancing Closed-Loop Performance in Learning-Based Vehicle Motion Planning by Integrating Rule-Based Insights \
 Yunkai Wang, Quyu Kong, **He Zhu**, Dongkun Zhang, Longzhong Lin, Hao Sha, Xunlong Xia, Qiao Liang, Bing Deng, Ken Chen, Rong Xiong, Yue Wang*, Jieping Ye* \
 IEEE Robotics and Automation Letter (RA-L 2024)
+
+ - Research and Implementation of Networked Cloud-Controlled Autonomous Driving System \
+Yunkai Wang, **He Zhu**, Quyu Kong, Rong Xiong, Yue Wang*
+Chinese Control Conference (CCC 2024 Oral)
 
 # Services
  - Reviewer of RA-L
